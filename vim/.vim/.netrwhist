@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/Users/suryasathujoda/.vim'
-let g:netrw_dirhist_6='/Users/suryasathujoda/GitProjects/Reinforcement-Learning-Implementation'
-let g:netrw_dirhist_5='/Users/suryasathujoda/Projects/KernelAdaptiveFiltering-Toolbox/Online'
-let g:netrw_dirhist_4='/Users/suryasathujoda/Projects/Connect'
-let g:netrw_dirhist_3='/Users/suryasathujoda/Projects/KernelAdaptiveFiltering-Toolbox/Online'
-let g:netrw_dirhist_2='/Users/suryasathujoda/University/PHYS1201/SelfStudy'
-let g:netrw_dirhist_1='/Users/suryasathujoda/University/PHYS1201'
